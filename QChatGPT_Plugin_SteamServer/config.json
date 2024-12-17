@@ -1,0 +1,84 @@
+{
+  "servers": {
+    "example": {
+      "ip": "127.0.0.1",
+      "port": "27015",
+      "description": "示例服务器"
+    },
+    "exg1": {
+      "ip": "202.189.4.212",
+      "port": "27001",
+      "description": "EXG服务器1"
+    },
+    "exg3": {
+      "ip": "202.189.4.226",
+      "port": "27001",
+      "description": "EXG服务器3"
+    },
+    "exg5": {
+      "ip": "202.189.4.230",
+      "port": "27001",
+      "description": "EXG服务器5"
+    },
+    "exg7": {
+      "ip": "202.189.4.234",
+      "port": "27001",
+      "description": "EXG服务器7"
+    },
+    "exg9": {
+      "ip": "202.189.10.36",
+      "port": "27001",
+      "description": "EXG服务器9"
+    },
+    "exg11": {
+      "ip": "180.188.24.32",
+      "port": "27001",
+      "description": "EXG服务器11"
+    },
+    "exg12": {
+      "ip": "180.188.24.32",
+      "port": "27002",
+      "description": "EXG服务器12"
+    },
+    "exg13": {
+      "ip": "180.188.24.51",
+      "port": "27001",
+      "description": "EXG服务器13"
+    },
+    "exg14": {
+      "ip": "180.188.24.51",
+      "port": "27002",
+      "description": "EXG服务器14"
+    },
+    "tsuuz1": {
+      "ip": "202.189.9.141",
+      "port": "27015",
+      "description": "TSUUZ服务器1"
+    },
+    "tsuuz2": {
+      "ip": "202.189.9.141",
+      "port": "27016",
+      "description": "TSUUZ服务器2"
+    },
+    "tsuuz3": {
+      "ip": "106.55.161.39",
+      "port": "27015",
+      "description": "TSUUZ服务器3"
+    },
+    "tsuuz4": {
+      "ip": "106.55.161.39",
+      "port": "27016",
+      "description": "TSUUZ服务器4"
+    },
+    "tsuuz5": {
+      "ip": "140.143.143.197",
+      "port": "27015",
+      "description": "TSUUZ服务器5"
+    },
+    "123.249.118.218_27015": {
+      "ip": "123.249.118.218",
+      "port": "27015",
+      "description": "cs2测试服"
+    }
+  }
+}
